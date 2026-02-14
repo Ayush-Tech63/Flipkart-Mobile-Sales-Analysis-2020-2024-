@@ -31,7 +31,8 @@ Dashboard Design
 
 Business Data Analysis
 
-<img width="1689" height="833" alt="Screenshot 2026-02-14 235010" src="https://github.com/user-attachments/assets/b97ec456-a24b-40fb-843c-d931a37d09ad" />
+<img width="1683" height="831" alt="Screenshot 2026-02-14 234937" src="https://github.com/user-attachments/assets/e09b18b5-185d-4528-94e4-170d5ab54242" />
+
 
 <img width="1689" height="833" alt="Screenshot 2026-02-14 235010" src="https://github.com/user-attachments/assets/0df3c594-d162-4c80-a08e-4d266eab1762" />
 
